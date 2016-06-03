@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+	>
+
+	<ImageView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/ballImage"
+		android:scaleType="centerInside"
+		android:adjustViewBounds="true"
+		android:layout_centerInParent="true"
+		android:src="@drawable/ballblue"
+		android:layout_margin="10dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/ballnumber"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"
+		android:textStyle="bold"/>
+</RelativeLayout>

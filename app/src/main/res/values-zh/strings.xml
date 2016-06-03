@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">六合彩產生器</string>
+    <string name="descriptiontext">號碼由Random.org提供, 取自大氣中的隨機雜訊, 產生出真隨機數</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

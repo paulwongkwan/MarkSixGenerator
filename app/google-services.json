@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010231962249",
+    "firebase_url": "https://marksixgenerator.firebaseio.com",
+    "project_id": "marksixgenerator",
+    "storage_bucket": "marksixgenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010231962249:android:6f093ac080760ea9",
+        "android_client_info": {
+          "package_name": "mememe.marksixgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010231962249-83lq323hu5ugte525bdj1975714g2vla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkTPogQKjAgD3sYR_B5VtT_dSvdyghjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
